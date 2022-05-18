@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.complete {
+  text-decoration: line-through;
+}
+
+.on {
+  color: blue;
+}
+
+.todos {
+  position: relative;
+}
+
+.orderInput {
+  float: left;
+}
+
+button {
+  margin: 2px;
+}
+
+.status-button {
+  margin-top: 10px;
+}
